@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 238 (0.8%)
+- **Completed:** 3 / 238 (1.3%)
 
 ---
 
@@ -276,7 +276,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Middle of the Linked List
 - [ ] Reverse Linked List
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
-- [ ] Linked List Cycle II
+- [x] [Linked List Cycle II](./Python/Medium/142. Linked List Cycle II/)
 - [ ] Palindrome Linked List
 - [ ] Remove Nth Node From End of List
 - [ ] Delete Node in a Linked List
