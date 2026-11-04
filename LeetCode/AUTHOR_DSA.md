@@ -273,7 +273,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Number of Islands
 
 ### 📂 PART  1: LINKED LISTS Topics Covered: 1.
-- [x] [Middle of the Linked List](./C++/Easy/908. Middle of the Linked List/)
+- [x] [Middle of the Linked List](./Python/Easy/908. Middle of the Linked List/)
 - [ ] Reverse Linked List
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
 - [x] [Linked List Cycle II](./Python/Medium/142. Linked List Cycle II/)
