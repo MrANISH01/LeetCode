@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 100 (3.0%)
+- **Completed:** 4 / 100 (4.0%)
 
 ---
 
@@ -42,7 +42,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Letter Combinations of a Phone Number
 
 ### 📂 Linked List
-- [ ] Reverse Linked List
+- [x] [Reverse Linked List](./Python/Easy/206. Reverse Linked List/)
 - [ ] Palindrome Linked List
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
 - [x] [Linked List Cycle II](./Python/Medium/142. Linked List Cycle II/)
