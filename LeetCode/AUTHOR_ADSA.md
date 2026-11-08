@@ -10,7 +10,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 ## Checklist
 
 ### 📂 Module  1.1: Linked List Fundamentals &
-- [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
+- [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Merge Two Sorted Lists
 - [x] [Remove Linked List Elements](./Python/Easy/203. Remove Linked List Elements/)
 - [x] [Reverse Linked List](./Python/Easy/206. Reverse Linked List/)

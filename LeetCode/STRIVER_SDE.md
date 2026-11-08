@@ -37,7 +37,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Middle of the Linked List](./Python/Easy/908. Middle of the Linked List/)
 - [ ] Merge Two Sorted Lists
 - [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
-- [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
+- [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
