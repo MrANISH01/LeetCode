@@ -9,7 +9,8 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if(he)
+        if(head==None):
+            return head
         odd = head
         even = head.next
 
