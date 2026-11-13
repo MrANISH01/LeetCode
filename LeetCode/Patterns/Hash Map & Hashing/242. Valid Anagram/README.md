@@ -17,7 +17,7 @@ Hash Table, String, Sorting
 
 Given two strings  `s`  and  `t` , return  `true`  if  `t`  is an anagram of  `s` , and  `false`  otherwise.
 
-OriginalPython **Example 1:**
+**Example 1:**
 
 **Input:**  s = "anagram", t = "nagaram"
 
